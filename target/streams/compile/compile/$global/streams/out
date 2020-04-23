@@ -1,0 +1,305 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/rsyntaxEdit/RSyntaxInspectCompletionListAction.scala:13:52: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m   override def actionPerformed(  e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaExec/Interpreter/ControlInterpreter.scala:82:30: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `run`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     def run {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/CUDAMat.scala:884:72: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(r: Int, colonSymbol:  ::.type, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/CUDAMat.scala:896:74: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update( colonSymbol:  ::.type,  c: Int, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/CUDAMat.scala:909:80: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override final def update( rs: Int,  re: Int, cs: Int, ce: Int, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/CUDAMat.scala:923:68: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override  final def update(colonSymbol: ::.type, c: Int, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/CUDAMat.scala:936:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(r: Int, colonSymbol: ::.type, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Combinatorics.scala:53:36: Lowercase el for long is not recommended because it is easy to confuse with numeral 1; use uppercase L instead[0m
+[0m[[0m[33mwarn[0m] [0m[0m        for (i <- n until n-k by -1l) prod *= i[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/ComplexMatrix.scala:916:42: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mdef  update(n: Int, m: Int, cn: Complex) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/ComplexMatrix.scala:921:51: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m   def  update(n: Int, m: Int, cn: Array[Double]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/D2Das1DMat.scala:95:54: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mfinal def update(row: Int, col: Int, value: Double)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/ILapack.scala:54:64: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `interchange`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def interchange(r1: Int, r2: Int, P: Array[Array[Double]]  ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Mat.scala:186:50: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mfinal def  update(n: Int, m: Int, value: Double) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/MatBoolean.scala:165:51: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mfinal def  update(n: Int, m: Int, value: Boolean) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/MatChar.scala:165:48: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mfinal def  update(n: Int, m: Int, value: Char) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Matrix.scala:934:52: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mfinal def  update(n: Int, m: Int, value: Double )  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Matrix.scala:941:72: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(r: Int, colonSymbol:  ::.type, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Matrix.scala:952:73: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(colonSymbol:  ::.type, c: Int,  v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Matrix.scala:962:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(colonSymbol: ::.type, c: Int, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Matrix.scala:973:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(r: Int, colonSymbol: ::.type, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Rational.scala:60:33: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `main`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def main(args: Array[String]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:912:71: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0moverride final def update(r: Int, colonSymbol:  ::.type, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:924:74: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update( colonSymbol:  ::.type,  c: Int, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:937:80: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override final def update( rs: Int,  re: Int, cs: Int, ce: Int, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:951:68: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override  final def update(colonSymbol: ::.type, c: Int, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:965:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(r: Int, colonSymbol: ::.type, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:980:78: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override  final def update(colonSymbol: ::.type, c: Int, v: Array[Double])  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/RichDouble2DArray.scala:995:77: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m override final def update(r: Int, colonSymbol: ::.type, v: Array[Double])  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:52:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:54:30: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `run`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     def run {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:70:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:72:30: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `run`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     def run {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:86:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:88:30: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `run`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     def run {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:101:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Search/SearchLibs.scala:110:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/StaticScalaSciGlobal.scala:4834:39: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `einv`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0mfinal def  einv(A: RichDouble2DArray) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Vec.scala:1263:19: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `rand`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m final def rand() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/VecExt.scala:5:36: procedure syntax is deprecated for constructors: add `=`, as in method definition[0m
+[0m[[0m[33mwarn[0m] [0m[0m    final def this(v: scalaSci.Vec) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:35:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:69:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:121:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:148:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:182:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:250:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:284:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:316:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:342:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:382:41: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:407:44: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m     def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/Wizards/LinearSystemsWizard.scala:438:44: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m     def actionPerformed( e: ActionEvent ) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/ExportGraphics.scala:57:96: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `writePNG`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def writePNG(out : OutputStream, draw : Drawable, width : Int, height : Int, dpi : Int = 72) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/ExportGraphics.scala:78:80: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `writeEPS`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def writeEPS(out : OutputStream, draw : Drawable, width : Int, height : Int) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/ExportGraphics.scala:93:80: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `writePDF`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def writePDF(out : OutputStream, draw : Drawable, width : Int, height : Int) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Figure.scala:18:25: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `clearPlot`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def clearPlot(i: Int) {   // clear the ith plot[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Figure.scala:81:15: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `clear`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def clear() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Figure.scala:100:17: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `run`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def run() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Figure.scala:113:35: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `drawPlots`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def drawPlots(g2d : Graphics2D) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Figure.scala:129:49: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `saveas`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def saveas(filename : String, dpi : Int = 72) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Figure.scala:158:29: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `refresh`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def refresh(pl: Plot) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:43:17: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `refresh`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def refresh() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:55:32: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `listen`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def listen(l: Plot.Listener) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:59:34: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `unlisten`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def unlisten(l: Plot.Listener) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:64:31: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `xlabel_$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def xlabel_=(label: String) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:69:31: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `ylabel_$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def ylabel_=(label: String) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:73:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `xlim_$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def xlim_=(lowerUpper: (Double,Double)) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:78:42: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `xlim`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def xlim(lower: Double, upper: Double) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:83:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `ylim_$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def ylim_=(lowerUpper: (Double,Double)) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:87:42: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `ylim`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def ylim(lower: Double, upper: Double) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:96:29: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `title_$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def title_=(str : String) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:105:34: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setXAxisIntegerTickUnits`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def setXAxisIntegerTickUnits() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:108:34: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setYAxisIntegerTickUnits`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def setYAxisIntegerTickUnits() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:111:34: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setXAxisDecimalTickUnits`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def setXAxisDecimalTickUnits() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:114:34: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setYAxisDecimalTickUnits`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def setYAxisDecimalTickUnits() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:180:26: procedure syntax is deprecated: instead, add `: Unit` to explicitly declare `refresh`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def refresh(pl: Plot)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:250:17: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `clear`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def clear() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:258:29: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `$plus$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def +=(d: xy.XYDataset) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:296:19: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `clear`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def clear() {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:304:92: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `$plus$eq`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def +=(d: xy.XYItemRenderer, numSeries:Int, autocolor: Boolean, autostroke: Boolean) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:320:106: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `drawItem`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 p8: org.jfree.data.xy.XYDataset, series: Int, item: Int, p11: CrosshairState, p12: Int) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:334:71: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesVisible`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesVisible(series: Int, visible: lang.Boolean) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:338:88: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesVisible`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesVisible(series: Int, visible: lang.Boolean, notify: Boolean) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:355:79: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesVisibleInLegend`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesVisibleInLegend(series: Int, visible: lang.Boolean) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:359:96: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesVisibleInLegend`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesVisibleInLegend(series: Int, visible: lang.Boolean, notify: Boolean) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:368:60: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesPaint`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesPaint(series: Int, paint: Paint) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:378:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesOutlinePaint`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesOutlinePaint(series: Int, paint: Paint) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:401:63: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesStroke`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesStroke(series: Int, stroke: Stroke) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:410:70: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesOutlineStroke`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesOutlineStroke(series: Int, stroke: Stroke) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/jplot/Plot.scala:424:60: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `setSeriesShape`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    override def setSeriesShape(series: Int, shape: Shape) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/math/plot/SyntaxHelper.scala:26:13: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `on`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def on  {   scalaSci.math.plot.plot.hold("on") }[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/math/plot/SyntaxHelper.scala:27:14: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `off`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def off  { scalaSci.math.plot.plot.hold("off") }[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/math/plot/SyntaxHelper.scala:35:14: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `all`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def all  { scalaSci.math.plot.plot.close("all")  }[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/scalaSciMatrix.scala:824:63: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m def update(r: Int, colonSymbol:  scala.::.type, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/scalaSciMatrix.scala:836:65: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m def update( colonSymbol:  scala.::.type,  c: Int, v: Double)   {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/scalaSciMatrix.scala:1043:58: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m def update(colonSymbol: scala.::.type, c: Int, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/scalaSciMatrix.scala:1057:58: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m def update(r: Int, colonSymbol: scala.::.type, v: Vec)  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/scalaSciMatrix.scala:1071:68: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m def update(colonSymbol: scala.::.type, c: Int, v: Array[Double])  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/scalaSciMatrix.scala:1085:68: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `update`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m def update(r: Int, colonSymbol: scala.::.type, v: Array[Double])  {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaSci/util/Error.scala:23:5: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `flaw`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/scala/scalaUtils/ScalaUtilitiesObject.scala:15:17: `val` keyword in for comprehension is deprecated: instead, bind the value without `val`[0m
+[0m[[0m[33mwarn[0m] [0m[0m        val url = fileToURL(file); if !url.isEmpty[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m100 warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/java/graph/ScatterPlotControls.java: Some input files use or override a deprecated API.[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/java/graph/ScatterPlotControls.java: Recompile with -Xlint:deprecation for details.[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/java/Jama/jMatrix.java: Some input files use unchecked or unsafe operations.[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/sterg/NBProjects/ScalaLab213/src/main/java/Jama/jMatrix.java: Recompile with -Xlint:unchecked for details.[0m
